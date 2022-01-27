@@ -1,0 +1,7 @@
+main: online.Refract.Minigames.Main
+name: Minigames
+version: 1.0
+author: Kayon
+
+commands:
+    tag:
